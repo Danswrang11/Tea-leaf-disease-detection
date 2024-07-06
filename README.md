@@ -87,6 +87,6 @@ Contributions to this project are welcome. Feel free to open issues or submit pu
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname] at [dansw222@example.com].
+For any questions or suggestions, please contact Danswrang Basumatary at [dansw222@example.com].
 
 ---
